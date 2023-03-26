@@ -1,0 +1,694 @@
+body{
+  background: grey;
+}
+.main{
+  width: 100%;
+  height: 1221px;
+  position: relative;
+
+  background: #EBEBEB;
+ 
+}
+.header{
+  position: absolute;
+  width: 100%;
+  height: 70px;
+  top: 20px;
+ 
+}
+.logo{
+  height: 40px;
+width: 204px;
+left: 50px;
+top: 14px;
+border-radius: 0px;
+
+
+}
+.ludicams{
+  position: absolute;
+width: 155px;
+height: 35px;
+left: 99px;
+top: 16px;
+margin: -13px;
+  font-family: 'Orbitron';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 35px;
+
+color: #3C3C3C;
+
+}
+.vector{
+  position: absolute;
+  margin: -13px;
+width: 40px;
+height: 40px;
+left: 50px;
+top: 14px;
+
+}
+.online{
+  position: absolute;
+width: 128px;
+height: 21px;
+left: 293px;
+top: 23px;
+margin: -10px;
+
+
+}
+.ellipse2{
+  width: 10px;
+height: 10px;
+left: 293px;
+top: 30px;
+border-radius: 50%;
+
+background: #8BB47D;
+}
+.online2731{
+  position: absolute;
+  width: 103px;
+  height: 21px;
+  left: 15px;
+  top: -5px;
+
+  font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #3C3C3C;
+
+}
+.balance{
+  position: absolute;
+width: 102px;
+height: 47px;
+left: 1277px;
+top: 1px;
+
+
+}
+.t550{
+  position: absolute;
+  width: 42px;
+  height: 28px;
+margin-left: 40px;
+
+  font-family: 'Raleway';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+
+color: #3C3C3C;
+
+}
+.coin-fill{
+  position: absolute;
+width: 20px;
+height: 20px;
+margin-left: 15px;
+margin-top: 5px;
+border-radius: 50%;
+
+background: wheat;
+}
+.tcoinbuy{
+  position: absolute;
+  width: 100px;
+  height: 19px;
+  margin-left: 3px;
+  margin-top: 25px;
+
+  font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-decoration-line: underline;
+
+color: #52719F;
+}
+.content{
+  position: absolute;
+width: 100%;
+height: 878px;
+top: 100px;
+ 
+background: grey;
+
+}
+.card{
+  position: absolute;
+width: 304px;
+height: 393px;
+left: 59px;
+top: 174px;
+
+
+}
+.rectangle1{
+  position: absolute;
+  height: 393px;
+  width: 304px;
+  left: -50px;
+  top: -120px;
+
+  border-radius: 2px;
+
+background: #C4C4C4;
+}
+.status{
+  position: absolute;
+width: 73px;
+height: 20px;
+left: 10px;
+top: 10px;
+
+background: #DFAD63;
+border-radius: 2px;
+}
+.status1{
+  position: absolute;
+width: 68px;
+height: 20px;
+left: 10px;
+top: 10px;
+
+background: #8BB47D;
+border-radius: 2px;
+
+}
+.johnandmaria{
+  position: absolute;
+width: 80px;
+height: 14px;
+left: 73px;
+top: 190px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+
+
+color: #3C3C3C;
+
+}
+.short-text{
+  position: absolute;
+width: 214px;
+height: 32px;
+left: 70px;
+top: 280px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #3C3C3C;
+
+}
+.text{
+  position: absolute;
+width: 214px;
+height: 63px;
+left: 70px;
+top: 210px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+
+color: #3C3C3C;
+
+}
+button{
+  position: absolute;
+width: 200px;
+height: 32px;
+left: 70px;
+bottom: 16px;
+
+background: #DFAD63;
+border-radius: 2px;
+}
+.gr{
+  position: absolute;
+width: 200px;
+height: 32px;
+left: 70px;
+bottom: 16px;
+
+background: #8BB47D;
+border-radius: 2px;
+}
+.ava1{
+  position: absolute;
+width: 40px;
+height: 40px;
+left: 15px;
+top: 190px;
+}
+.rectangle2{
+  position: absolute;
+  height: 393px;
+  width: 304px;
+  left: 300px;
+  top: -120px;
+  border-radius: 2px;
+  
+  background: #C4C4C4;
+
+}
+.rectangle-ava2{
+  position: absolute;
+width: 304px;
+height: 171px;
+left: 0px;
+top: 0px;
+
+background: url(images/Rectangle\ 7.png), #C4C4C4;
+}
+.AndySanders{
+  position: absolute;
+width: 80px;
+height: 14px;
+left: 73px;
+top: 190px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+
+
+
+color: #3C3C3C;
+
+}
+.ava2{
+  position: absolute;
+width: 40px;
+height: 40px;
+left: 15px;
+top: 190px;
+
+background: url(images/ava.png);
+}
+.rectangle3{
+  position: absolute;
+  height: 393px;
+width: 304px;
+left: 650px;
+top: -120px;
+
+
+border-radius: 2px;
+background: #C4C4C4;
+}
+.rectangle-ava3{
+  position: absolute;
+width: 304px;
+height: 171px;
+left: 0px;
+top: 0px;
+
+background: url(images/Rectangle\ 3.png), #C4C4C4;
+}
+.ava3{
+  position: absolute;
+width: 40px;
+height: 40px;
+left: 15px;
+top: 190px;
+
+background: url(images/ava.png);
+}
+.markskinning{
+  position: absolute;
+width: 71px;
+height: 14px;
+left: 73px;
+top: 190px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+
+
+color: #3C3C3C;
+
+}
+.rectangle4{
+  position: absolute;
+  height: 393px;
+  width: 304px;
+  left: 1000px;
+  top: -120px;
+  border-radius: 2px;
+  background: #C4C4C4;
+ 
+}
+.product_manager{
+  position: absolute;
+width: 92px;
+height: 14px;
+left: 73px;
+top: 190px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #3C3C3C;
+
+}
+.ava4{
+  position: absolute;
+width: 304px;
+height: 171px;
+left: 0px;
+top: 0px;
+
+background: url(images/Rectangle\ 4.png);
+}
+.rectangle-ava4{
+  position: absolute;
+width: 40px;
+height: 40px;
+left: 15px;
+top: 190px;
+
+background: url(images/ava.png);
+}
+.rectangle5{
+  position: absolute;
+  height: 393px;
+width: 304px;
+left: -50px;
+top: 300px;
+border-radius: 2px;
+background: #C4C4C4;
+
+}
+.rectangle-ava5{
+  position: absolute;
+width: 304px;
+height: 171px;
+left: 0px;
+top: 0px;
+
+background: url(images/Rectangle\ 6.png), #C4C4C4;
+}
+.veronika{
+  position: absolute;
+width: 49px;
+height: 14px;
+left: 73px;
+top: 190px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+
+color: #3C3C3C;
+
+}
+.ava5{
+  position: absolute;
+width: 40px;
+height: 40px;
+left: 15px;
+top: 190px;
+
+background: url(images/ava.png);
+}
+.bl{
+  position: absolute;
+width: 200px;
+height: 32px;
+left: 70px;
+bottom: 19px;
+
+background: #5982C0;
+border-radius: 2px;
+}
+.status2{
+  position: absolute;
+width: 82px;
+height: 20px;
+left: 10px;
+top: 10px;
+
+background: #5982C0;
+border-radius: 2px;
+}
+.rectangle6{
+  position: absolute;
+  height: 393px;
+width: 304px;
+left: 300px;
+top: 300px;
+border-radius: 2px;
+background: #C4C4C4;
+
+}
+.rectangle-ava6{
+  position: absolute;
+width: 304px;
+height: 171px;
+left: 0px;
+top: 0px;
+
+background: url(images/Rectangle\ 7.png), #C4C4C4;
+}
+.ava6{
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 15px;
+  top: 190px;
+  
+  background: url(images/ava.png);
+}
+.rectangle7{
+  position: absolute;
+  height: 393px;
+width: 304px;
+left: 650px;
+top: 300px;
+border-radius: 2px;
+background: #C4C4C4;
+
+}
+.rectangle-ava7{
+  position: absolute;
+width: 304px;
+height: 171px;
+left: 0px;
+top: 0px;
+
+background: url(images/Rectangle\ 7.png), #C4C4C4;
+}
+.ava7{
+  position: absolute;
+width: 40px;
+height: 40px;
+left: 15px;
+top: 190px;
+
+background: url(images/ava.png);
+}
+.rectangle8{
+  position: absolute;
+  height: 393px;
+width: 304px;
+left: 1000px;
+top: 300px;
+border-radius: 2px;
+background: #C4C4C4;
+
+}
+.rectangle-ava8{
+  position: absolute;
+width: 304px;
+height: 171px;
+left: 0px;
+top: 0px;
+
+background: url(images/Rectangle\ 3.png), #C4C4C4;
+}
+.ava8{
+  position: absolute;
+width: 40px;
+height: 40px;
+left: 15px;
+top: 190px;
+
+background: url(images/ava.png);
+}
+.footer{
+  position: absolute;
+width: 100%;
+height: 128px;
+left: 0px;
+bottom: 0px;
+
+
+}
+.logo1{
+  position: absolute;
+width: 204px;
+height: 40px;
+left: 50px;
+top: 44px;
+
+
+}
+.ludicams1{
+  position: absolute;
+width: 155px;
+height: 35px;
+left: 40px;
+top: 0px;
+
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 35px;
+
+color: #3C3C3C;
+
+
+}
+.menu{
+  position: absolute;
+width: 742px;
+height: 30px;
+left: 400px;
+top: 0px;
+
+}
+.menu1{
+  position: absolute;
+  width: 102px;
+  height: 19px;
+  left: 10px;
+  top: 10px;
+  
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+  
+
+  
+  color: #3C3C3C;
+  
+}
+.menu2{
+  position: absolute;
+  width: 128px;
+  height: 19px;
+  left: 150px;
+  top: 10px;
+  
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+  
+  text-align: center;
+  letter-spacing: -0.18px;
+  
+  color: #3C3C3C;
+  
+}
+.menu3{
+  position: absolute;
+  width: 137px;
+  height: 19px;
+  left: 300px;
+  top: 10px;
+  
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+  
+  text-align: center;
+  letter-spacing: -0.18px;
+  
+  color: #3C3C3C;
+  
+}
+.menu4{
+  position: absolute;
+  width: 153px;
+  height: 19px;
+  left: 500px;
+  top: 10px;
+  
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+  
+  text-align: center;
+  letter-spacing: -0.18px;
+  
+  color: #3C3C3C;
+  
+}
+.end{
+  position: absolute;
+width: 100px;
+height: 21px;
+left: 1268px;
+top: 10px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 21px;
+/* identical to box height, or 175% */
+
+text-align: right;
+letter-spacing: 0.01px;
+
+color: #989898;
+
+}
